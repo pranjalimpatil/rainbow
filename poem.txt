@@ -2,6 +2,7 @@
 red
 blue
 unicorn
+indigo
 orange
 yellow
 green
