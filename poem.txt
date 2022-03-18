@@ -1,6 +1,7 @@
 
 red
 blue
+orange
 yellow
 green
 colurs of rainbow
