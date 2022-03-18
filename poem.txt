@@ -1,7 +1,9 @@
 
 red
 blue
+unicorn
 orange
 yellow
 green
 colurs of rainbow
+added unicorn
